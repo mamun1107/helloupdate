@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import ImageSlideshow
+//import ImageSlideshow
 
 struct Model {
     let image: UIImage
